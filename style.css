@@ -1,0 +1,24 @@
+body {
+    padding: 30px;
+    margin: 0;
+    background: rgb(172, 112, 112);
+    
+    
+  }
+  .design {
+    margin-top: 20px;
+    border: 1px solid rgb(218, 100, 100);
+    background-color: rgb(180, 206, 65);
+    padding: 15px 0px 15px 0px;
+    
+  }
+  
+  
+  input {
+    width: 500px ;
+    height: auto;
+    
+  }
+  
+  
+  
